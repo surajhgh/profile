@@ -1,0 +1,14 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home, .home2, .main {
+  min-height: 100vh; /* Ensures each section takes full screen height */
+  padding: 20px;     /* Adds some padding inside each section */
+  margin: 10px 0;    /* Adds space between the sections */
+  border: 1px solid #ccc; /* Optional border for visual clarity */
+  background-color: #f9f9f9; /* Light background color */
+}
