@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://surajthapa007.com.np",
   "dependencies": {
+    "emailjs-com": "^3.2.0"
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "cra-template": "1.2.0",
