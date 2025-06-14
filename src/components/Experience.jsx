@@ -21,7 +21,7 @@ const Experience = () => {
       default:
         return (
           <p className="text-white mb-6">
-            Hello there! I’m <strong>Robert Junior</strong>. I specialize in web
+            Hello there! I’m <strong>Suraj Thapa</strong>. I specialize in web
             design and development, and I'm deeply passionate and committed to my craft. With{' '}
             <strong>20 years</strong> of experience as a professional graphic designer.
           </p>
